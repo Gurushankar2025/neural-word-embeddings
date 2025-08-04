@@ -8,7 +8,7 @@ This project demonstrates basic operations using **neural word embeddings**
 
 ### Operations Implemented
 1. **Word Similarity** – Compute similarity score between two words.
-2. **Most Similar Words** – Retrieve top-N words most similar to a given word.
+2. **Most Similar Words** – Retrieve words that are most similar to a given word.
 3. **Odd-One-Out (Doesn’t Match)** – Identify the word that doesn’t fit in a group.
 
 ---
