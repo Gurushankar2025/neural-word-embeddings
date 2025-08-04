@@ -1,7 +1,7 @@
 # neural Word Embeddings – Projects
 
 This repository contains **projects demonstrating neural word embeddings** for practical NLP tasks.  
-Current work includes **resume screening (hire/reject)** and upcoming **embedding operations** with Word2Vec and GloVe.
+Current work includes **resume screening (hire/reject)** and  **embedding operations** with Word2Vec and GloVe.
 
 ---
 
@@ -21,7 +21,7 @@ Detailed metrics and confusion matrices are in
 
 ---
 
-### 2. Neural Embedding Operations (Upcoming)
+### 2. Neural Embedding Operations
 - Word similarity checks
 - Most similar words retrieval
 - Odd-one-out (doesn’t match) operations
