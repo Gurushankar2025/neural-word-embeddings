@@ -1,4 +1,4 @@
-# neural Word Embeddings – Projects
+# Neural Word Embeddings – Projects
 
 This repository contains **projects demonstrating neural word embeddings** for practical NLP tasks.  
 Current work includes **resume screening (hire/reject)** and  **embedding operations** with Word2Vec and GloVe.
