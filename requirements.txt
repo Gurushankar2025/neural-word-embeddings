@@ -1,0 +1,17 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# NLP libraries
+spacy
+gensim
+python-Levenshtein
+
+# Machine Learning
+scikit-learn
+imblearn
+
+# Jupyter
+notebook
