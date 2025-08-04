@@ -17,7 +17,7 @@ Current focus: **Resume Screening** (Hire or Reject) and **embedding operations*
 - **Best result:** Gensim ~74% accuracy (spaCy ~72%)
 
 Detailed metrics and confusion matrices are in  
-[`projects/resume_screening/results/comparison.md`](projects/resume_screening/result_comparison.md)
+[`projects/resume_screening/result_comparison.md`](projects/resume_screening/result_comparison.md)
 
 ---
 
